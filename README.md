@@ -1,4 +1,7 @@
 # tecblog
+
+![tecblog](https://user-images.githubusercontent.com/54041918/146683815-8e03fc7f-7f2c-46f6-8d2f-184d2bbf5fa9.gif)
+
 repositório ficticio para estudos de html, css, javaScript (projeto TecBlog)
 
 ## 🛠 Getting started
